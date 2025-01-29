@@ -31,5 +31,4 @@ echo "====== EnvSetup Done ======="
 
 # lunch 
 mistify miami userdebug
-make installclean
 mist b
