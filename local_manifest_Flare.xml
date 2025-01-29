@@ -14,7 +14,7 @@
     <project path="device/motorola/sm6375-common" name="android_device_motorola_sm6375-common" remote="Bashid" revision="15.0_Flare" />
 
     <!-- Kernel -->
-    <project path="kernel/motorola/sm6375" name="android_kernel_motorola_sm6375" remote="Motorola-Miami-Github" revision="15.0-KSU-Next" />
+    <project path="kernel/motorola/sm6375" name="android_kernel_motorola_sm6375" remote="Motorola-Miami-Github" revision="15.0-KSU" />
 
     <!-- Vendor -->
     <project path="vendor/motorola/miami" name="proprietary_vendor_motorola_miami" remote="Motorola-Miami-Gitlab" revision="rebase/15.0" />
