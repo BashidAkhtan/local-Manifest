@@ -32,5 +32,5 @@ git clone https://github.com/BashidAkhtan/miami_build_signing.git vendor/
 . build/envsetup.sh
 
 # Start Building
-brunch miami
+brunch miami eng
 
